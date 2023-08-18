@@ -11,3 +11,16 @@ E:\TDS\2° Periodo\PA - Prof.Emerson\CadastroPessoas\CadastroPessoas\obj\Debug\C
 E:\TDS\2° Periodo\PA - Prof.Emerson\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.csproj.CoreCompileInputs.cache
 E:\TDS\2° Periodo\PA - Prof.Emerson\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.exe
 E:\TDS\2° Periodo\PA - Prof.Emerson\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.pdb
+F:\TDS\2° Periodo\PA - Prof.Emerson\CadastroPessoas\CadastroPessoas\bin\Debug\Database1.mdf
+F:\TDS\2° Periodo\PA - Prof.Emerson\CadastroPessoas\CadastroPessoas\bin\Debug\Database1_log.ldf
+F:\TDS\2° Periodo\PA - Prof.Emerson\CadastroPessoas\CadastroPessoas\bin\Debug\CadastroPessoas.exe.config
+F:\TDS\2° Periodo\PA - Prof.Emerson\CadastroPessoas\CadastroPessoas\bin\Debug\CadastroPessoas.exe
+F:\TDS\2° Periodo\PA - Prof.Emerson\CadastroPessoas\CadastroPessoas\bin\Debug\CadastroPessoas.pdb
+F:\TDS\2° Periodo\PA - Prof.Emerson\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.csproj.AssemblyReference.cache
+F:\TDS\2° Periodo\PA - Prof.Emerson\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.csproj.SuggestedBindingRedirects.cache
+F:\TDS\2° Periodo\PA - Prof.Emerson\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.Form1.resources
+F:\TDS\2° Periodo\PA - Prof.Emerson\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.Properties.Resources.resources
+F:\TDS\2° Periodo\PA - Prof.Emerson\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.csproj.GenerateResource.cache
+F:\TDS\2° Periodo\PA - Prof.Emerson\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.csproj.CoreCompileInputs.cache
+F:\TDS\2° Periodo\PA - Prof.Emerson\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.exe
+F:\TDS\2° Periodo\PA - Prof.Emerson\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.pdb
